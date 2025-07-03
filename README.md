@@ -3,9 +3,12 @@
 ### ⚙️ **Installation:**
 
 *1️⃣ Download.
+
 *2️⃣ Open Aseprite → File → Scripts → Open Scripts Folder.
+
 *3️⃣ Paste the `.lua` file inside the folder.
-*4️⃣ Restart Aseprite — you'll see "Shaky Line Animation" under the Scripts menu
+
+*4️⃣ Restart Aseprite — you'll see "Shaky Line Animation" under the Scripts menu.
 
 ### ✅ **How to use:**
 
